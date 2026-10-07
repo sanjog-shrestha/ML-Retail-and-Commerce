@@ -78,11 +78,11 @@ Running the script prints the missing-value report, the number of cars in each p
 
 **Mean price by drive wheels and body style**
 
-![Price heatmap](price_heatmap.png)
+![Price heatmap](image.png)
 
 **Engine size vs. price with linear fit**
 
-![Engine size regression](engine_size_regression.png)
+![Engine size regression](image-1.png)
 
 ## A note on the results
 
