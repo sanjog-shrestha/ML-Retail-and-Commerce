@@ -77,7 +77,7 @@ Running the script prints dataset statistics, mean revenue by MPAA rating, the g
 
 **Distributions after the log10 transform**
 
-![Log-transformed distributions](log_distributions.png)
+![Log-transformed distributions](image.png)
 
 **Model comparison (MAE on log10 revenue)**
 
