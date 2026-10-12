@@ -82,7 +82,7 @@ Running the script prints the missing-value counts, the approval rate, the featu
 
 ![Correlation heatmap](image-1.png)
 
-**Results from the original notebook (before the preprocessing fixes)**
+**Results (before the preprocessing fixes)**
 
 | Model | Train accuracy | Test accuracy |
 |-------|---------------:|--------------:|
